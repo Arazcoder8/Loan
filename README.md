@@ -72,7 +72,7 @@ Models Used :
 | XGBoost | 100 | 100 | 100 | 100 | 100 |
 | LightGBM | 100 | 100 | 100 | 100 | 100 |
 | GradientBoosting | 100 | 100 | 100 | 100 | 100 |
-| CatBoost | 100 | 100 | 100 | 100 | 100 
+| CatBoost | 100 | 100 | 100 | 100 | 100 |
 
 ---
 
