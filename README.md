@@ -22,6 +22,7 @@ Loan prediction using machine learning classification models, preprocessing, mod
 ---
 
 ## 🧠 Models
+
 Models Used :
 
 * XGBoost 
@@ -31,7 +32,7 @@ Models Used :
 
 ---
 
-## ⚙️ Preprocessing
+## ⚙️  Preprocessing
 
 * Data Cleaning
 * Exploratory Data Analysis (EDA)
@@ -58,6 +59,7 @@ Models Used :
 ---
 
 ## 📊 Model Evaluation
+
 - The model Evaluated by accuracy,precision,recall,f1,roc-auc
 
 ---
@@ -81,8 +83,6 @@ All evaluated models achieved 100% on Accuracy, Precision, Recall, F1-Score, and
 Additional experiments and checks were performed to investigate potential data leakage, but no direct data leakage was identified.
 
 The consistently perfect performance appears to be related to the strong predictive relationship between the available features and the target variable. The features in this dataset make the target classes highly separable, resulting in perfect classification performance across all evaluated models.
-
-These results should be interpreted in the context of this dataset and should not automatically be generalized to real-world loan approval data.
 
 ---
 
