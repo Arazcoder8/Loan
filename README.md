@@ -68,7 +68,7 @@ Models Used :
 
 
 | Model | Accuracy | Precision | Recall | F1 | ROC-AUC | 
-| :--- | ---: | ---: | ---: | ---: | ---: | ---: |
+| :--- | ---: | ---: | ---: | ---: | ---: |
 | XGBoost | 100 | 100 | 100 | 100 | 100 |
 | LightGBM | 100 | 100 | 100 | 100 | 100 |
 | GradientBoosting | 100 | 100 | 100 | 100 | 100 |
