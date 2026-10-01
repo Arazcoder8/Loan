@@ -36,8 +36,6 @@ Models Used :
 
 * Data Cleaning
 * Exploratory Data Analysis (EDA)
-* Feature Scaling
-* Missing Value Imputation
 * Hyperparameter Tuning
 * Model Evaluation
 * Evaluation Metrics
